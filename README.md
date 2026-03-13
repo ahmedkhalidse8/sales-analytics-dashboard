@@ -2,6 +2,15 @@
 
 This project analyzes a global retail dataset to uncover business insights and build an interactive Power BI dashboard.
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Dashboard](images/executive_dashboard.png)
+
+### Product Analysis
+![Product Dashboard](images/product_analysis_dashboard.png)
+
+
 ## Tools Used
 
 * Python (Pandas, NumPy, Matplotlib)
